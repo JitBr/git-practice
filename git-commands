@@ -1,0 +1,4 @@
+git init → Initialize repo
+git add . → Add all files
+git commit -m "" → Save changes
+git push → Send to GitHub
